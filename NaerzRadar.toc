@@ -1,6 +1,6 @@
 ## Interface: 30300
-## Title: |cff0099FFNaerzRadar|r |cff00FF99v2.2 Estable|r
-## Notes: Profesion auto - Verde Hierba / Dorado Mena - patch-l.mpq 158kB
+## Title: |cFF00CCFFNaerzRadar|r |cFF00FF00[Naerzone]|r
+## Notes: NodeRadar - Verde Hierba / Dorado Mena - patch-l.mpq 158kB - WotLK 3.3.5a
 ## Author: Naerz x Seth x Copilot
 ## Version: 2.2-estable-final
 ## SavedVariables: NaerzRadarDB
