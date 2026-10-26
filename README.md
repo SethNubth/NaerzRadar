@@ -1,8 +1,3 @@
-Aquí tienes el *README.md PRO 2026* GOD, listo para pegar en tu GitHub:
-
----
-
-`README.md`
 NaerzRadar v2.2 — Anti-Fallas Estable | WoW 3.3.5a (30300)
 
 > NodeRadar Full Edition — Patch-l.mpq 158kB + Sonar Verde/Dorado + Tracking Real
@@ -93,8 +88,8 @@ World of Warcraft\Data\patch-l.mpq
 👥 Créditos
 
 - **NodeRadar Original:** Seth (Retail Edition)
-- **Patch-l.mpq 158kB:** @ Warmane Forums
-- **Port + Optimización 3.3.5a:** Naerz x Copilot x Meta AI
+- **Patch-l.mpq 158kB:** 
+- **Port + Optimización 3.3.5a:** SethNubth x Copilot x Meta AI
 - **Idea Sonar Verde/Dorado:** Comunidad Warmane
 
 📄 Licencia
