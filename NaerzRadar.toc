@@ -1,0 +1,30 @@
+## Interface: 30300
+## Title: NaerzRadar |cff00FF99GOD Edition|r
+## Notes: Port de NodeRadar Forever (Spotnick) a WotLK 3.3.5 - Pings minimap when herb/ore in range
+## Author: Spotnick - Port by SethNubth
+## Version: 1.0-WOTLK-FULL
+## X-License: MIT
+## X-Curse-Project-ID: 1751109
+## SavedVariables: NodeRadarDB
+## SavedVariablesPerCharacter: NodeRadarCharDB
+## IconTexture: Interface\Icons\INV_Misc_Flower_02
+
+Libs\LibStub\LibStub.lua
+Libs\CallbackHandler-1.0\CallbackHandler-1.0.lua
+Libs\LibDataBroker-1.1\LibDataBroker-1.1.lua
+Libs\LibDBIcon-1.0\LibDBIcon-1.0.lua
+Compat_WOTLK.lua
+Data\Nodes_WOTLK.lua
+Scan_WOTLK.lua
+Learn.lua
+Alert_WOTLK.lua
+Track_WOTLK.lua
+Icons.lua
+Compass_WOTLK.lua
+Marker.lua
+FarMarker.lua
+Options_WOTLK.lua
+TrackOptions.lua
+Tooltip.lua
+Minimap_WOTLK.lua
+NaerzRadar.lua
